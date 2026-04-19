@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sales & Inventory Optimizer",
+  "description": "An end-to-end ML pipeline for retail demand forecasting and inventory replenishment using hybrid models (RandomForest + Croston).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
