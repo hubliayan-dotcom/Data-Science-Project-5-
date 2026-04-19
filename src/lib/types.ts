@@ -25,10 +25,21 @@ export interface InventoryRecommendation {
 export interface ForecastPoint {
   date: string;
   demand: number;
+  actual?: number;
   isForecast: boolean;
+}
+
+export interface ModelMetrics {
+  mae: number;
+  mase: number;
+  mape: number;
+  stockoutReduction: number;
+  overstockReduction: number;
+  estimatedSavings: number;
 }
 
 export interface AnalysisResult {
   forecast: ForecastPoint[];
   inventory: InventoryRecommendation;
+  metrics: ModelMetrics;
 }
