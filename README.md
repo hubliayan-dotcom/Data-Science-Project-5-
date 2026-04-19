@@ -1,7 +1,5 @@
 # Retail Sales Forecasting & Inventory Optimization System
 
-![Retail Forecast Dashboard](https://picsum.photos/seed/retail-dashboard/1200/600)
-
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![React Version](https://img.shields.io/badge/react-19.0-61dafb)](https://reactjs.org/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green)](https://www.apache.org/licenses/LICENSE-2.0)
