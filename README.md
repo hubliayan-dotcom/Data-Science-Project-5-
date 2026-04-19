@@ -1,7 +1,4 @@
 # Retail Intelligence & Inventory Optimization Dashboard
-
-![Retail Forecast Dashboard](outputs/images/full_dashboard_view.png)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -105,16 +102,14 @@ graph TD
     end
 ```
 
-## Screenshots
+## Dashboard Overview
+![Dashboard](dashboard_kpi_overview.png)
 
-### Inventory KPI Dashboard
-![Inventory KPI Dashboard](outputs/images/dashboard_kpi_overview.png)
+## Forecast Validation
+![Forecast](forecast_validation_chart.png)
 
-### Forecast Validation
-![Forecast Validation](outputs/images/forecast_validation_chart.png)
-
-### Critical Replenishment Alerts
-![Critical Replenishment Alerts](outputs/images/critical_alerts_view.png)
+## Replenishment Alerts
+![Alerts](replenishment_alert_table.png)
 
 ## Project Structure
 ```text
