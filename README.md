@@ -1,4 +1,7 @@
 # Retail Intelligence & Inventory Optimization Dashboard
+
+![Retail Forecast Dashboard](outputs/images/full_dashboard_view.png)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -21,8 +24,8 @@ This end-to-end Machine Learning pipeline allows retailers to predict SKU-level 
 
 ## 🚀 Live Demo
 **Access the Interactive Dashboard:** [Live Preview](https://ais-pre-yskilakonh4rqxb4af4wqe-50948685477.asia-southeast1.run.app)
-*(Note: Requires active session for server-side analytical processing)*
 
+> **Note:** The simulation handles 73,000+ transactional records. On the first load, please allow 2-3 seconds for the analytical matrix to initialize on the server.
 
 ## Tech Stack
 - **Frontend:** React, TypeScript, Tailwind CSS
@@ -102,15 +105,16 @@ graph TD
     end
 ```
 
-## Dashboard Overview
+## Screenshots
 
-![Dashboard](dashboard_kpi_overview.png)
+### Inventory KPI Dashboard
+![Inventory KPI Dashboard](outputs/images/dashboard_kpi_overview.png)
 
-## Forecast Validation
-![Forecast](forecast_validation_chart.png)
+### Forecast Validation
+![Forecast Validation](outputs/images/forecast_validation_chart.png)
 
-## Replenishment Alerts
-![Alerts](replenishment_alert_table.png)
+### Critical Replenishment Alerts
+![Critical Replenishment Alerts](outputs/images/critical_alerts_view.png)
 
 ## Project Structure
 ```text
