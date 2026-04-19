@@ -97,16 +97,15 @@ graph TD
     end
 ```
 
-## Screenshots
+## Dashboard Overview
 
-### Inventory KPI Dashboard
-![Inventory KPI Dashboard](outputs/images/dashboard_kpi_overview.png)
+![Dashboard](dashboard_kpi_overview.png)
 
-### Forecast Validation
-![Forecast Validation](outputs/images/forecast_validation_chart.png)
+## Forecast Validation
+![Forecast](forecast_validation_chart.png)
 
-### Critical Replenishment Alerts
-![Critical Replenishment Alerts](outputs/images/critical_alerts_view.png)
+## Replenishment Alerts
+![Alerts](replenishment_alert_table.png)
 
 ## Project Structure
 ```text
