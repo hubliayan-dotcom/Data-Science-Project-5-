@@ -19,6 +19,11 @@ This project solves these issues by forecasting demand at the granular SKU-store
 ## Project Overview
 This end-to-end Machine Learning pipeline allows retailers to predict SKU-level demand and automate inventory replenishment. By moving from manual planning to data-driven forecasting, businesses achieve significant operational gains and cost savings.
 
+## 🚀 Live Demo
+**Access the Interactive Dashboard:** [Live Preview](https://ais-pre-yskilakonh4rqxb4af4wqe-50948685477.asia-southeast1.run.app)
+*(Note: Requires active session for server-side analytical processing)*
+
+
 ## Tech Stack
 - **Frontend:** React, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express
